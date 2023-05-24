@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiEcommerce", "ApiEcommerce\ApiEcommerce.csproj", "{91D7D3DA-ADD5-4886-85B3-FAD43FEE5C7C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelProject", "ModelProject\ModelProject.csproj", "{F4DBC577-89F9-4503-BE05-CFA7ADDBA9F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelEntity", "ModelProject\ModelEntity.csproj", "{F4DBC577-89F9-4503-BE05-CFA7ADDBA9F5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessProject", "BusinessProject\BusinessProject.csproj", "{84107D00-8116-4E46-BD84-A65A5E8A3E5D}"
 EndProject

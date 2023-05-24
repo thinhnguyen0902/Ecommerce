@@ -1,4 +1,4 @@
-using ModelProject;
+using ModelEntity;
 
 var builder = WebApplication.CreateBuilder(args);
 
