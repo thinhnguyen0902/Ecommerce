@@ -10,4 +10,8 @@
     <ProjectReference Include="..\ModelProject\ModelEntity.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repo\" />
+  </ItemGroup>
+
 </Project>
